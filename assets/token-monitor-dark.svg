@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="640" viewBox="0 0 900 640" role="img" aria-labelledby="title desc">
 <title id="title">CJerryR - Token Monitor</title>
-<desc id="desc">15,613,277,122 lifetime tokens. Codex: 13,012,306,710. Claude Code: 2,389,246,341. WorkBuddy: 172,233,397. Antigravity: 39,431,174. 132 active days in the last 365 days.</desc>
+<desc id="desc">15,624,556,994 lifetime tokens. Codex: 13,015,228,556. Claude Code: 2,397,604,367. WorkBuddy: 172,233,397. Antigravity: 39,431,174. 133 active days in the last 365 days.</desc>
 <style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;fill:#f0f6f4;letter-spacing:0}.mono{font-family:Consolas,"Liberation Mono",monospace;font-variant-numeric:tabular-nums}.muted{fill:#a7b1bc}</style>
 <rect width="900" height="640" rx="8" fill="#393d40"/>
 <text x="28" y="35" class="mono muted" font-size="13">TOTAL TOKENS</text>
 <text x="872" y="35" class="mono muted" font-size="12" text-anchor="end">CJerryR / LIFETIME</text>
-<text x="28" y="112" class="mono" font-size="66" font-weight="700">15,613,277,122</text>
+<text x="28" y="112" class="mono" font-size="66" font-weight="700">15,624,556,994</text>
 <text x="30" y="140" class="muted" font-size="13">All sources</text>
 <circle cx="35" cy="176" r="6" fill="#48a9b4"/>
 <text x="53" y="182" font-size="17" font-weight="600">Codex</text>
-<text x="872" y="182" class="mono" font-size="16" text-anchor="end">13,012,306,710  (83.3%)</text>
+<text x="872" y="182" class="mono" font-size="16" text-anchor="end">13,015,228,556  (83.3%)</text>
 <rect x="28" y="197" width="844" height="8" rx="4" fill="#262a2d"/>
 <rect x="28" y="197" width="844.00" height="8" rx="4" fill="#48a9b4"/>
 <circle cx="35" cy="237" r="6" fill="#d4876b"/>
 <text x="53" y="243" font-size="17" font-weight="600">Claude Code</text>
-<text x="872" y="243" class="mono" font-size="16" text-anchor="end">2,389,246,341  (15.3%)</text>
+<text x="872" y="243" class="mono" font-size="16" text-anchor="end">2,397,604,367  (15.3%)</text>
 <rect x="28" y="258" width="844" height="8" rx="4" fill="#262a2d"/>
-<rect x="28" y="258" width="154.97" height="8" rx="4" fill="#d4876b"/>
+<rect x="28" y="258" width="155.48" height="8" rx="4" fill="#d4876b"/>
 <circle cx="35" cy="298" r="6" fill="#10bea2"/>
 <text x="53" y="304" font-size="17" font-weight="600">WorkBuddy</text>
 <text x="872" y="304" class="mono" font-size="16" text-anchor="end">172,233,397  (1.1%)</text>
@@ -29,8 +29,7 @@
 <rect x="28" y="380" width="3.00" height="8" rx="4" fill="#4b88ee"/>
 <path d="M28 411H872" stroke="#53585d"/>
 <text x="28" y="443" font-size="15" font-weight="700">ACTIVITY</text>
-<text x="872" y="443" class="mono muted" font-size="12" text-anchor="end">132 active days / last 12 months</text>
-<rect x="28" y="512" width="12" height="12" rx="2" fill="#41464a"><title>2025-11-26: 0 tokens</title></rect>
+<text x="872" y="443" class="mono muted" font-size="12" text-anchor="end">133 active days / last 12 months</text>
 <rect x="28" y="528" width="12" height="12" rx="2" fill="#41464a"><title>2025-11-27: 0 tokens</title></rect>
 <rect x="28" y="544" width="12" height="12" rx="2" fill="#41464a"><title>2025-11-28: 0 tokens</title></rect>
 <rect x="28" y="560" width="12" height="12" rx="2" fill="#41464a"><title>2025-11-29: 0 tokens</title></rect>
@@ -406,8 +405,9 @@
 <rect x="860" y="464" width="12" height="12" rx="2" fill="#577c99"><title>2026-11-22: 336,884,272 tokens</title></rect>
 <rect x="860" y="480" width="12" height="12" rx="2" fill="#405a6e"><title>2026-11-23: 86,352,896 tokens</title></rect>
 <rect x="860" y="496" width="12" height="12" rx="2" fill="#577c99"><title>2026-11-24: 321,207,856 tokens</title></rect>
-<rect x="860" y="512" width="12" height="12" rx="2" fill="#afe7fa"><title>2026-11-25: 1,453,055,674 tokens</title></rect>
-<text x="28" y="622" class="mono muted" font-size="11">Token Monitor / 2026-11-25 / Asia/Shanghai</text>
+<rect x="860" y="512" width="12" height="12" rx="2" fill="#afe7fa"><title>2026-11-25: 1,464,241,610 tokens</title></rect>
+<rect x="860" y="528" width="12" height="12" rx="2" fill="#405a6e"><title>2026-11-26: 9,049,841 tokens</title></rect>
+<text x="28" y="622" class="mono muted" font-size="11">Token Monitor / 2026-11-26 / Asia/Shanghai</text>
 <text x="748" y="622" class="muted" font-size="10" text-anchor="end">Less</text>
 <rect x="756" y="612" width="12" height="12" rx="2" fill="#41464a"/>
 <rect x="772" y="612" width="12" height="12" rx="2" fill="#405a6e"/>
